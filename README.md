@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paula!
 
-I'm a **QA Engineer** transitioning into **Python Automation**. With over 3 years of experience in manual testing and some experience in test automation with Cypress and Selenium, I'm excited about learning new technologies and automating tasks to improve processes and systems.
+I'm a **QA Engineer** transitioning into **Test Automation**. With over 3 years of experience in manual testing and some experience in test automation with Cypress and Selenium, I'm excited about learning new technologies and automating tasks to improve processes and systems.
 
 - 🌱 I’m currently learning Playwright for Automation with Python
 - 💬 You can always ask me about videogames! It's my favorite hobby and I'm pretty sure we could play something together!
