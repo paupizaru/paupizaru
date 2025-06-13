@@ -42,4 +42,4 @@ I'm currently focused on improving my automation skills with Python and Playwrig
 ## 🎯 Goals for 2025
 
 - To get better at **Python** and **Playwright** for test automation, or Cypress with JavaScript, too!
-- Find a job that makes me want to stay 😅 and that lets me continue my test automation career, and not to only focus in manual testing.
+- Find a job that lets me continue my test automation career, and not to only focus in manual testing.
